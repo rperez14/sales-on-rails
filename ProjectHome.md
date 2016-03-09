@@ -1,0 +1,1 @@
+a ruby on rails based Point of Sales System, developed for use at Housing Works Thrift shops in New York
